@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  background-color: #CEE5D0;
+  display: block;
+}
+
+h1 {
+  font-family: 'Marck Script', cursive;
+}
+
+h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-cloud {
+  position: relative;
+  left: 160px;
+  margin-top: 25px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 180px;
+}
+
+.mountain {
+  height: 260px;
+  margin-top: -10px;
+  margin-bottom: 19px;
+}
+
+.profile {
+  height: 196px;
+}
+
+.top-container {}
+
+.middle-container {}
+
+.bottom-container {}
+
+.ai {
+  margin-top: 10px;
+}
+
+.software {
+  margin-top: 30px;
+}
+
+.linkedin {
+  height: 30px;
+  position: relative;
+  right: 20px;
+  margin-top: 20px;
+}
+
+.twitter {
+  height: 30 px;
+  position: relative;
+  right: 0 px;
+  margin-top: 20 px;
+}
+
+.website {
+  position: relative;
+  height: 30 px;
+  left: 15 px;
+  margin-top: 20 px;
+}
